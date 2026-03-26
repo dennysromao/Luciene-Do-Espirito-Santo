@@ -1,3 +1,3 @@
 function mostrarMensagem() {
-    alert("Olá, aluno da 3ª série B!");
+    alert("Olá, aluno da 3ª série D!");
 }
